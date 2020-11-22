@@ -41,3 +41,6 @@ https://p5js.org/examples/instance-mode-instantiation.html
 # Happy coding!!!
 
 ## 楽しい！！！
+
+Nozomi's p5 notion link
+https://www.notion.so/p5-47d5f3a277f94e42b762f0690c6e35ee
